@@ -1,0 +1,1 @@
+# In this activity, A customer of the company that I work for who experiences a security issue when accessing the company’s website. I have to  identify the likely cause of the service interruption. Then, I have to explain how the attack occurred and the negative impact it had on the website. 
