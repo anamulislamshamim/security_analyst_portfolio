@@ -1,0 +1,3 @@
+# Recently, a deposit was made from the business to an unknown bank account. The finance manager says they didn’t make a mistake. Fortunately, they were able to stop the payment. My boss has asked me to investigate what happened to prevent any future incidents.
+# 
+# To do this, I’ll need to do some accounting on the incident to better understand what happened. First, I will review the access log of the incident. Next, I will take notes that can help me identify a possible threat actor. Then, I will spot issues with the access controls that were exploited by the user. Finally, I will recommend mitigations that can improve the business' access controls and reduce the likelihood that this incident reoccurs.
