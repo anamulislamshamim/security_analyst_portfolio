@@ -1,5 +1,5 @@
-# I am a level-one security operations center (SOC) analyst at a financial services company. Previously, I received a phishing alert about a suspicious file being downloaded on an employee's computer. After investigating the email attachment file's hash, the attachment has already been verified malicious. Now that I have this information, I must follow my organization's process to complete my investigation and resolve the alert.
+I am a level-one security operations center (SOC) analyst at a financial services company. Previously, I received a phishing alert about a suspicious file being downloaded on an employee's computer. After investigating the email attachment file's hash, the attachment has already been verified malicious. Now that I have this information, I must follow my organization's process to complete my investigation and resolve the alert. <br>
 # 
-# my organization's security policies and procedures describe how to respond to specific alerts, including what to do when I receive a phishing alert. 
+my organization's security policies and procedures describe how to respond to specific alerts, including what to do when I receive a phishing alert. <br>
 # 
-# In the playbook, there is a flowchart and written instructions to help I complete my investigation and resolve the alert. At the end of my investigation, I will update the alert ticket with my findings about the incident.
+In the playbook, there is a flowchart and written instructions to help I complete my investigation and resolve the alert. At the end of my investigation, I will update the alert ticket with my findings about the incident.
